@@ -19,6 +19,7 @@ data-volumes-01-starting-setup/
 - Reads and writes text data to a volume-mounted directory  
 - Demonstrates how to persist data using Docker volumes  
 - Teaches core Docker concepts like bind mounts and named volumes
+- Volumes, Environment, Arguments configuration.
 
 ## 🛠️ Getting Started
 
